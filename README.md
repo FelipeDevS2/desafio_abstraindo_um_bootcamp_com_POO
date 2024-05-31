@@ -4,10 +4,9 @@
 
 Este projeto em Java foi desenvolvido como resposta a um desafio proposto no bootcamp Backend Java realizado pela [Digital 
 Inovation One (DIO)](https://web.dio.me/). Consiste em abstrair com base em Orientação a Objetos as classes, atributos 
- e métodos de um bootcamp. O porjeto inclui metodos que permitem desenvolvedores se inscreverem em bootcamps, concluir
+ e métodos de um bootcamp. O projeto inclui métodos que permitem desenvolvedores se inscreverem em bootcamps, concluir
 conteúdos (cursos e mentorias), e acumularem experiência (XP). O projeto aplica os quatro pilares da Programação Orientada 
-a Objetos (POO): abstração, e
-ncapsulamento, herança e polimorfismo.
+a Objetos (POO): abstração, encapsulamento, herança e polimorfismo.
 
 ## Detalhamento das Classes
 
